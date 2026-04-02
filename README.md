@@ -44,8 +44,7 @@ project/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/music-player.git
-cd music-player
+git clone https://github.com/shaileshgoku/python-project-music-player.git
 ```
 
 2. Install dependencies
